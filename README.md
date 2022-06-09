@@ -9,11 +9,11 @@
 <i>A veces es necesario reiniciar el servicio MYSQL en Windows.</i>
 <i>Si sigue teniendo problemas al conectar la API con la base de datos tenga en cuenta que
 El fichero .env contiene las claves para conectarse a mediante MYSQL y se requiere que lo rellene el usuario.</i>
-<i>Ejemplo:</i>
-<i>MYSQL_HOST = localhost</i>
-<i>MYSQL_USER = root</i>
-<i>MYSQL_PASSWORD = 1234</i>
-<i>MYSQL_DATABASE = noticias</i>
-<i>SECRET=my_super_secure_xyz</i>
-
+<ul>Ejemplo:
+<li>MYSQL_HOST = localhost</li>
+<li>MYSQL_USER = root</li>
+<li>MYSQL_PASSWORD = 1234</li>
+<li>MYSQL_DATABASE = noticias</li>
+<li>SECRET=my_super_secure_xyz</li>
+</ul>
 
