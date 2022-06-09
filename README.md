@@ -5,6 +5,6 @@
 <p>2. En la ruta .\Back-End\proyecto-grupo-main\Noticias ejecutar: node index.js </p>
 <p>3. En la ruta .\noticias-app ejecutar: npm start</p>
 
-<i>*La base de datos viene vacía por defecto, a veces es necesario reinicia el servicio MYSQL en Windows.</i>
+<i>*La base de datos viene vacía por defecto, a veces es necesario reiniciar el servicio MYSQL en Windows.</i>
  
 
