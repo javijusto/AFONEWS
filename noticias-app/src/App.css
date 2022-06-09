@@ -1,0 +1,213 @@
+body{
+  background-color: cornflowerblue;
+  color:black;
+}
+
+img, p, h4{
+  color:black;
+}
+
+nav{
+  width: 100%;
+  position: fixed;
+  background-color: black;
+  height: 45px;
+  top:0px;
+}
+
+span{
+  float: right;
+  position: fixed;
+  left: 80%;
+  background-color: black;
+  top:0px;
+}
+
+.navlink{
+  text-decoration: none;
+  margin:5%;
+  position: relative;
+  top:10px;
+  color: white;
+}
+
+.navlink:hover{
+  color: #fff6dad3;
+}
+
+span .navlink span{
+  position: relative;
+  top:-20px;
+  left: -10px;
+}
+
+.link {
+  text-decoration: none;
+  text-align: center;
+  color: black;
+}
+
+.link:hover{
+  color: #fff6dad3;
+}
+
+.link h3{
+  text-align: center;
+  color: black;
+}
+
+h5{
+  color: black;
+  text-align: right;
+}
+
+.link button{
+  float:right;
+  position: relative;
+  top:-10px;
+  left:10px;
+}
+
+button{
+  border: 0;
+  background-color: cornflowerblue;
+}
+
+.userNavBar{
+  width: 100%;
+  position: fixed;
+  background-color: black;
+  height: 45px;
+  top:45px;
+}
+
+.userNavBar span{
+  float: right;
+  position: fixed;
+  left: 80%;
+  background-color: black;
+  top:45px;
+}
+
+.userNews article button{
+  float:right;
+  color:black;
+}
+
+form{
+  position: relative;
+  top:150px;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.home div{
+  margin:200px auto;
+  width: 80%;
+  align-content: center;
+  text-align: center;
+}
+
+.News{
+  width: 70%;
+  margin: 0 auto;
+  padding: 5%;
+}
+
+.Article{
+  border: 2px solid black;
+  width: 80%;
+  margin: 100px auto;
+  padding: 5%;
+}
+
+.Article div{
+  display:flex;
+  position: relative;
+  top:50px;
+  font-size: smaller;
+}
+
+.Article h5{
+  position: relative;
+  top:-10px;
+}
+
+.Article i{
+  font-size: smaller;
+}
+
+.ArticlePage{
+  border: 2px solid black;
+  width: 80%;
+  margin: 100px auto;
+  padding: 5%;
+}
+
+.ArticlePage div{
+  display:flex;
+  position: relative;
+  top:17px;
+}
+
+.ArticlePage img{
+  float:right;
+  margin:2%;
+  position: relative;
+  bottom:50px;
+  width: 40%;
+}
+
+form{
+  margin-bottom: 100px;
+  align-items: center;
+}
+
+form fieldset{
+  margin-bottom: 20px;
+}
+
+form .signLink{
+  margin: 20px;
+  font-size: smaller;
+  color:black;
+  text-decoration: none;
+}
+
+form .signLink:hover{
+  color:#fff6dad3;
+}
+
+form button{
+  float:center;
+  background-color: black;
+  color:white;
+  height: 30px;
+  width: 100%;
+  margin-top:20px;
+}
+
+
+form button:hover{
+color: #fff6dad3;
+}
+
+#error{
+  color:#fff6dad3;
+  margin: 100px auto;
+  text-align: center;
+}
+
+input, textarea{
+  background-color: #fff6dad3;
+  border:0;
+  width: 100%;
+}
+
+fieldset{
+  border: 1px dotted #fff6dad3;
+}
+
+form #signupMsg{
+  text-align: center;
+}
