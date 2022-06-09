@@ -5,7 +5,7 @@
 <p>2. En la ruta .\Back-End\proyecto-grupo-main\Noticias ejecutar: node index.js </p>
 <p>3. En la ruta .\noticias-app ejecutar: npm start</p>
 
-<i>*La base de datos viene vacía por defecto.</i>
+<i>*La base de datos se crea vacía por defecto.</i>
 <i>A veces es necesario reiniciar el servicio MYSQL en Windows.</i>
 <i>Si sigue teniendo problemas al conectar la API con la base de datos tenga en cuenta que el fichero .env contiene las claves para conectarse mediante MYSQL y se requiere que lo rellene el usuario.</i>
 <ul>Ejemplo:
